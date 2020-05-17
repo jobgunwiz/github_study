@@ -1,0 +1,12 @@
+
+ready for ndmi-server
+
+http://devstory.ibksplatform.com/2017/11/linux-ubuntu-mongo-db.html
+mongodb install
+
+https://www.leafcats.com/153
+docker install
+
+https://psychoria.tistory.com/651
+docker compose install
+
