@@ -13,3 +13,5 @@ docker compose install
 https://github.com/docker/compose/issues/4181
 dockerd cmd before ./dkcp-up.sh
 
+https://promobile.tistory.com/381
+node js install
