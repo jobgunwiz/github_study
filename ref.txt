@@ -10,3 +10,6 @@ docker install
 https://psychoria.tistory.com/651
 docker compose install
 
+https://github.com/docker/compose/issues/4181
+dockerd cmd before ./dkcp-up.sh
+
