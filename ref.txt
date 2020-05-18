@@ -15,3 +15,6 @@ dockerd cmd before ./dkcp-up.sh
 
 https://promobile.tistory.com/381
 node js install
+
+https://shoaly.tistory.com/44
+encounter errors while bringing up project
