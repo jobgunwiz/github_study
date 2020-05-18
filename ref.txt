@@ -21,3 +21,6 @@ encounter errors while bringing up project
 
 https://www.how2shout.com/how-to/how-to-install-mongodb-on-ubuntu-20-04-18-04-lts.html
 mongodb org install?
+
+https://eungbean.github.io/2018/08/08/Ubuntu-Installation1/
+init ubuntu after install
