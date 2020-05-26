@@ -30,9 +30,9 @@ init ubuntu after install
 https://devlog.jwgo.kr/2019/02/26/how-to-install-mongodb-on-ubuntu/
 mongodb for ubuntu 16.04
 
-http://iamartin-gh.herokuapp.com/ubuntu-16-04-docker-install/
-docker for ubuntu 16.04 ....???umm... 
-->
+//http://iamartin-gh.herokuapp.com/ubuntu-16-04-docker-install/
+//docker for ubuntu 16.04 ....???umm... 
+//->
 https://stackoverflow.com/questions/39645118/docker-unable-to-locate-package-docker-engine
 this could be solution
 
@@ -45,3 +45,8 @@ curl install and..
 https://psychoria.tistory.com/651
 docker-compose install
 
+https://itstory.tk/entry/Ubuntu-1604-nodejs-%EC%99%80-npm-%EC%84%A4%EC%B9%98
+nodejs and npm install
+
+https://www.npmjs.com/package/mongo-express
+mongo-express install
