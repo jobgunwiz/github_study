@@ -39,3 +39,9 @@ this could be solution
 https://gabii.tistory.com/entry/Ubuntu-vim-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95
 vim install...
 
+http://magic.wickedmiso.com/137
+curl install and..
+
+https://psychoria.tistory.com/651
+docker-compose install
+
