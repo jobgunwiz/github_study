@@ -31,7 +31,10 @@ https://devlog.jwgo.kr/2019/02/26/how-to-install-mongodb-on-ubuntu/
 mongodb for ubuntu 16.04
 
 http://iamartin-gh.herokuapp.com/ubuntu-16-04-docker-install/
-docker for ubuntu 16.04 ....???umm...
+docker for ubuntu 16.04 ....???umm... 
+->
+https://stackoverflow.com/questions/39645118/docker-unable-to-locate-package-docker-engine
+this could be solution
 
 https://gabii.tistory.com/entry/Ubuntu-vim-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%A4%EC%A0%95
 vim install...
