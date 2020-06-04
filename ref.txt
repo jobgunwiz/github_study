@@ -25,6 +25,8 @@ mongodb org install?
 https://eungbean.github.io/2018/08/08/Ubuntu-Installation1/
 init ubuntu after install
 
+https://salguworld.tistory.com/12
+pywork & flask install
 --------------
 
 https://devlog.jwgo.kr/2019/02/26/how-to-install-mongodb-on-ubuntu/
